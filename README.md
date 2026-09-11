@@ -68,7 +68,8 @@
 ### 2.1 AXI4-Lite 기반 SPI Peripheral Hardware Architecture (Basys3)
 
 <p align="center">
-  <img width="85%" alt="SPI Hardware Block Diagram" src="https://github.com/user-attachments/assets/f15cf5b2-4cd8-40a8-bd7c-7c0285e9b18f" /><br>
+  <img width="1212" height="421" alt="image" src="https://github.com/user-attachments/assets/fb17ef39-9cf0-4cda-9192-fc8bffe4c5c2" />
+<br>
   <b>[ AXI4-Lite 기반 SPI Peripheral Hardware Block Diagram ]</b>
 </p>
 
